@@ -173,6 +173,14 @@ form button{
 }
 /* footer end */
 
+/* WhiteHacker */
+.white{
+    color: #9B9B9B;
+    font-size: 16px;
+    line-height: 19px;
+}
+/* WhiteHacker end */
+
 
 
 @media (max-width:1200px) {
